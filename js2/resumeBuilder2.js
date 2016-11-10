@@ -193,7 +193,7 @@ function locationizer(work) {
     return locationArray;
 
 }
-
+//append google map to page
 $("#mapDiv").append(googleMap);
 
 console.log("google map = " + googleMap);
