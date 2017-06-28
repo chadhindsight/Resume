@@ -5,7 +5,7 @@ var bio = {
     "contacts": {
         "mobile": "347-777-2043",
         "email": "chadrickj8@gmail.com",
-        "github": "chadrick123",
+        "github": "chadhindsight",
         "twitter" : "chadhindsight",
         "location": "New York, New York",
     },
